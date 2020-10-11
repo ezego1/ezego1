@@ -1,5 +1,5 @@
 # Hi, I am Nwabueze.
-A Software Engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.
+Software Engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
