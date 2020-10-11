@@ -3,9 +3,12 @@ Software Engineer with a passion for developing innovative programs that expedit
 
                                                                                          
 ![](img/code.gif)
+
+
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 <img src='img/Js.png' width='30'>  <img src='img/html.png' width='40'> <img src='img/css.svg' width='40'>  <img src='img/firebase.png' width='40'>  <img src='img/git.svg' width='40'> <img src='img/mongodb.png' width='100'>. <img src='img/mysql.svg' width='40'> <img src='img/nodejs2.png' width='40'>  <img src='img/postgresql.png' width='40'> <img src='img/typescriptlang.png' width='40'> <img src='img/lfVWBmiW_400x400.png' width='40'>  <img src='img/react.png' width='40'>
+
 
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FEzegodwin1)
