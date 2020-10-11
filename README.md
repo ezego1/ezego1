@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I am Nwabueze.
+A Software Engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.
+
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FEzegodwin1)
 
 <!--
 **ezego1/ezego1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
